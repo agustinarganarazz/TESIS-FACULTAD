@@ -1,0 +1,11 @@
+{
+  "name": "farmacia",
+  "version": "1.0.0",
+  "description": "back para farmacia",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "agustin",
+  "license": "ISC"
+}
