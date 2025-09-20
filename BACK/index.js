@@ -9,9 +9,11 @@ app.use(cors());
 
 const productos = require("./routes/Productos");
 const categoria = require("./routes/Categoria");
+const droguerias = require("./routes/Drogueria");
 
 app.use("/productos", productos);
 app.use("/categoria", categoria);
+app.use("/droguerias", droguerias);
 
 app.listen(3001);
 
