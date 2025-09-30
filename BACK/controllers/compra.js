@@ -27,4 +27,4 @@ const registrarCompraYLote = (req, res) => {
   );
 };
 
-module.exports = {registrarCompraYLote}
+module.exports = { registrarCompraYLote };
